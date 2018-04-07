@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NDK_Demo</string>
+    <string name="btn_login">登录</string>
+    <string name="btn_file">文件操作</string>
+</resources>
